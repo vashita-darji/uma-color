@@ -1,7 +1,7 @@
 function Contact() {
   return (
     <div>
-      <h1 style={{ color: "#1E3A8A" }}>Contact Us</h1>
+      <h1 style={{ color: "#1E3A8A" }}>Contact Me</h1>
 
       <p style={{ marginTop: "20px" }}>
         📍 Uma Colours, Anand, Gujarat
