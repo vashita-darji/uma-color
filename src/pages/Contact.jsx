@@ -4,7 +4,7 @@ function Contact() {
       <h1 style={{ color: "#1E3A8A" }}>Contact Us</h1>
 
       <p style={{ marginTop: "20px" }}>
-        📍 Uma Colors, Anand, Gujarat
+        📍 Uma Colours, Anand, Gujarat
       </p>
 
       <p>📞 Phone: +91 94087 24258</p>
